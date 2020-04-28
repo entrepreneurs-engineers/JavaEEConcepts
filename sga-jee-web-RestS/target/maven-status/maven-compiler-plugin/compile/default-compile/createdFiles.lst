@@ -1,0 +1,14 @@
+com\co\sga\web\ConfiguracionBean.class
+com\co\sga\data\UsuarioDaoImpl.class
+com\co\sga\services\PersonaServiceWs.class
+com\co\sga\web\PersonaServlet.class
+com\co\sga\web\PersonaBean.class
+com\co\sga\domain\Persona.class
+com\co\sga\services\PersonaServiceImpl.class
+com\co\sga\data\PersonaDao.class
+com\co\sga\data\UsuarioDao.class
+com\co\sga\data\PersonaDaoImpl.class
+com\co\sga\services\PersonaServiceRemote.class
+com\co\sga\services\PersonaService.class
+com\co\sga\services\PersonaServiceRS.class
+com\co\sga\domain\Usuario.class
